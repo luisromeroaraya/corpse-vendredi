@@ -2,3 +2,8 @@
 
 ## Introduction
 Fred travaillais comme facteur. Son père avait été facteur, son grand-père avait été facteur, bref, il venait d'une longue dynastie de facteurs après des siècles. Il avait une fascination pour les timbres étrangers. Il aimait fantasmer d'où venaient les lettres et imaginer à quoi ressemblait l'expéditeur. Il répètais toujours à haute voix des dialogues imaginaires sur ce que la lettre dirait. Il était un homme solitaire, un parfait inconnu. Mais cela allait changer aujourd'hui et il ne le savait pas.
+
+contexte (par GuillaumeQ)
+
+C'était une journée chaude d'été. Fred détestait l'été, la chaleur insupportable le faisait énormément transpirer. Sa transpiration était acide et lui donnait un terrible eczéma. Mais le travail, c'est le travail. Il prit alors son vélo, son sac plein de lettres et de colis et commença sa tournée. Au bout d'une heure et quatres litres de sueurs, une forte odeur de viande avarié le prit à la gorge. 
+
